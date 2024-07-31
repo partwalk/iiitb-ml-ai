@@ -1,6 +1,4 @@
-# TODO
-
-# Project Name
+# Predicting Loan Defaults
 > We look at data of users on Lending Club who applied for loans and whether the loan ended in a default. We use a variety of metrics to determine which factors influence the risk of default.
 
 
